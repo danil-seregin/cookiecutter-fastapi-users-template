@@ -1,0 +1,13 @@
+{
+  "project_name": "FastAPI Users Project",
+  "project_slug": "fastapi_users_project",
+  "author_name": "Danil",
+  "python_version": "3.11",
+  "jwt_secret": "9f11e6425539fd14f51b50a91e47437e",
+  "user_secret": "25d3a358d9929073000cca1e4d0db635",
+  "access_token_expire_minutes": "60",
+  "admin_email": "danil.ceregin@bk.ru",
+  "admin_password": "Alexandr2019!@#$",
+  "permanent_token": "on",
+  "database_user_url": "sqlite+aiosqlite:///./users.db"
+}
